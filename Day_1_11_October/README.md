@@ -9,7 +9,7 @@
 [ ] Ball
 
 ##### Q3. How many wickets will Kagiso Rabada take?
-[] 0 - 1
+[ ] 0 - 1
 [ ] 2
 [ ] 3
 [ ] 4+
@@ -32,3 +32,15 @@ Q2. [x] Ball
 Q3. [x] 2
 Q4. [x] 41+
 Q5. [x] 6+
+
+### Solar System Exploration, 1950s – 1960s
+
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
