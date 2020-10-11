@@ -9,7 +9,7 @@
 [ ] Ball
 
 ##### Q3. How many wickets will Kagiso Rabada take?
-[ ] 0 - 1
+[] 0 - 1
 [ ] 2
 [ ] 3
 [ ] 4+
