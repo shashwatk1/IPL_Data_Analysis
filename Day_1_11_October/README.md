@@ -38,3 +38,5 @@
 ### Q5.
 - [x] 6+
 
+
+Rank after Day 1: 258
