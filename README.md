@@ -7,4 +7,5 @@
 ### [Day 5 - 15th October 2020 - Royal Challengers Banglore v/s Kings XI Punjab](https://github.com/shashwatk1/IPL_Data_Analysis/tree/main/Day_5_15_October)
 ### [Day 6 - 16th October 2020 - Kolkata Knight Riders v/s Mumbai Indians](https://github.com/shashwatk1/IPL_Data_Analysis/tree/main/Day_6_16_October)
 ### [Day 7 - 17th October 2020 - Delhi Capitals v/s Chennai Super Kings](https://github.com/shashwatk1/IPL_Data_Analysis/tree/main/Day_7_17_October)
-### [Day 8 - 17th October 2020 - Mumbai Indians v/s Kings XI Punjab](https://github.com/shashwatk1/IPL_Data_Analysis/tree/main/Day_8_18_October)
+### [Day 8 - 18th October 2020 - Mumbai Indians v/s Kings XI Punjab](https://github.com/shashwatk1/IPL_Data_Analysis/tree/main/Day_8_18_October)
+### [Day 9 - 19th October 2020 - Chennai Super Kings v/s Rajasthan Royals](https://github.com/shashwatk1/IPL_Data_Analysis/tree/main/Day_9_19_October)
