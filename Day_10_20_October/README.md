@@ -1,6 +1,6 @@
 # DAY 10 of IPL DATA ANALYSIS INTERNSHIP @WIDHYA
 ##### [Notebook Submission](https://github.com/shashwatk1/IPL_Data_Analysis/blob/main/Day_10_20_October/Day_10.ipynb)
-##### [Video Submission - Bonus Event]
+##### [Video Submission - Bonus Event](https://www.linkedin.com/posts/shashwatk1_widhya-day-10-activity-6724318722632298496-HJP2)
 ## Questions
 ### Q1. Who will win the match?
 - [ ] KXIP
