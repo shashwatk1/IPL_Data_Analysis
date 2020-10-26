@@ -15,3 +15,4 @@
 ##### [Day 13 - 23nd October 2020 - Chennai Super Kings v/s Mumbai Indians](https://github.com/shashwatk1/IPL_Data_Analysis/tree/main/Day_13_23_October)
 ##### [Day 14 - 24th October 2020 - Kings XI Punjab v/s Sunrisers Hyderabad](https://github.com/shashwatk1/IPL_Data_Analysis/tree/main/Day_14_24_October)
 ##### [Day 15 - 25th October 2020 - Rajasthan Royals v/s Mumbai Indians](https://github.com/shashwatk1/IPL_Data_Analysis/tree/main/Day_15_25_October)
+##### [Day 15 - 25th October 2020 - Kolkata Knight Riders v/s Kings XI Punjab](https://github.com/shashwatk1/IPL_Data_Analysis/tree/main/Day_16_26_October)
