@@ -31,12 +31,12 @@
 
 ## My Answers:
 ### Q1.
-- [x] 
+- [x] RR
 ### Q2.
-- [x] 
+- [x] 9 - 16
 ### Q3.
-- [x] 
+- [x] Caught
 ### Q4.
-- [x] 
+- [x] Sanju Samson
 ### Q5.
 - [x] 0 - 1

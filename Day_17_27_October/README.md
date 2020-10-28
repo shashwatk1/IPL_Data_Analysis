@@ -12,9 +12,9 @@
 - [ ] 361 or more
 
 ### Q3. How many such dismissals will occur in the match where the batsman gets out caught? [NOTE : Caught & bowled will also come under the caught category. Calculate the total number of wickets that will fall purely through catches. DO NOT include bowled, LBWS, run-outs or hit wickets.] 
-- [ ] 0-3
-- [ ] 4-7
-- [ ] 8-12
+- [ ] 0 - 3
+- [ ] 4 - 7
+- [ ] 8 - 12
 - [ ] 13 or more 
 
 ### Q4. How man runs more/less will SRH score in the first 6 overs as compared to DC?
@@ -31,12 +31,12 @@
 
 ## My Answers:
 ### Q1.
-- [x] KKR
+- [x] DC
 ### Q2.
-- [x] 60 - 90
+- [x] Less than 320
 ### Q3.
-- [x] 4 - 6
+- [x] 4 - 7
 ### Q4.
-- [x] 15 - 22%
+- [x] 15 - 23
 ### Q5.
-- [x] 0 - 1
+- [x] 9 - 12

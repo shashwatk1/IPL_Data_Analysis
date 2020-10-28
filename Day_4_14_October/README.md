@@ -24,7 +24,7 @@
 - [ ] 6 or more
 
 ### Q5. How many wickets will be takin in total during the match?
-- [ ] 0 - 5
+- [ ] 0 - 5 
 - [ ] 6 - 10
 - [ ] 11 - 15
 - [ ] 16 - 20
