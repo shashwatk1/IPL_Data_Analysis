@@ -1,6 +1,7 @@
 # DAY 18 of IPL DATA ANALYSIS INTERNSHIP @WIDHYA
 ##### [Notebook Submission](https://github.com/shashwatk1/IPL_Data_Analysis/blob/main/Day_18_28_October/Day_18.ipynb)
 ## Questions
+
 ### Q1. Who will win the match?
 - [ ] MI
 - [ ] RCB
@@ -30,13 +31,14 @@
 - [ ] 25 or more
 
 ## My Answers:
+
 ### Q1.
-- [x] 
+- [x] MI
 ### Q2.
-- [x] 
+- [x] 3 - 4
 ### Q3.
-- [x] 
+- [x] 3 - 4
 ### Q4.
-- [x] 
+- [x] 6 - 8
 ### Q5.
-- [x] 
+- [x] 6 - 14
