@@ -35,3 +35,5 @@
 ##### [Day 17 - 27th October 2020 - Sunrisers Hyderabad v/s Delhi Capitals](https://github.com/shashwatk1/IPL_Data_Analysis/tree/main/Day_17_27_October)
 
 ##### [Day 18 - 28th October 2020 - Mumbai Indians v/s Royal Challengers Banglore](https://github.com/shashwatk1/IPL_Data_Analysis/tree/main/Day_18_28_October)
+
+##### [Day 19 - 29th October 2020 - Chennai Super Kings v/s Kolkata Knight Riders](https://github.com/shashwatk1/IPL_Data_Analysis/tree/main/Day_19_29_October)
