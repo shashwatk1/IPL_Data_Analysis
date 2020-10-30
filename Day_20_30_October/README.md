@@ -1,5 +1,5 @@
-# DAY 19 of IPL DATA ANALYSIS INTERNSHIP @WIDHYA
-##### [Notebook Submission](https://github.com/shashwatk1/IPL_Data_Analysis/blob/main/Day_19_29_October/Day_19.ipynb)
+# DAY 20 of IPL DATA ANALYSIS INTERNSHIP @WIDHYA
+##### [Notebook Submission](https://github.com/shashwatk1/IPL_Data_Analysis/blob/main/Day_20_30_October/Day_20.ipynb)
 ## Questions
 
 ### Q1. Who will win the match?
