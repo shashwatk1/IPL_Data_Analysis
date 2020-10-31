@@ -39,3 +39,5 @@
 ##### [Day 19 - 29th October 2020 - Chennai Super Kings v/s Kolkata Knight Riders](https://github.com/shashwatk1/IPL_Data_Analysis/tree/main/Day_19_29_October)
 
 ##### [Day 20 - 30th October 2020 - Kings XI Punjab v/s Rajasthan Royals](https://github.com/shashwatk1/IPL_Data_Analysis/tree/main/Day_20_30_October)
+
+##### [Day 21 - 31th October 2020 - Royal Challengers Banglore v/s Sunrisers Hyderabad](https://github.com/shashwatk1/IPL_Data_Analysis/tree/main/Day_21_31_October)
