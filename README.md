@@ -45,3 +45,5 @@
 ##### [Day 22 - 01st November 2020 - Kolkata Knight Riders v/s Rajasthan Royals](https://github.com/shashwatk1/IPL_Data_Analysis/tree/main/Day_22_01_November)
 
 ##### [Day 23 - 02nd November 2020 - Delhi Capitals v/s Royal Challengers Banglore](https://github.com/shashwatk1/IPL_Data_Analysis/tree/main/Day_23_02_November)
+
+##### [Day 23 - 02nd November 2020 - Sunrisers Hyderabad v/s Mumbai Indians](https://github.com/shashwatk1/IPL_Data_Analysis/tree/main/Day_24_03_November)
