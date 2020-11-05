@@ -1,6 +1,6 @@
 # DAY 26 of IPL DATA ANALYSIS INTERNSHIP @WIDHYA
 
-##### [Notebook Submission](https://github.com/shashwatk1/IPL_Data_Analysis/blob/main/Day_26_04_November/Day_26.ipynb)
+##### [Notebook Submission](https://github.com/shashwatk1/IPL_Data_Analysis/blob/main/Day_26_05_November/Day_26.ipynb)
 
 ## Questions
 
