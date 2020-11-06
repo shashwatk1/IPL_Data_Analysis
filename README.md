@@ -49,3 +49,5 @@
 ##### [Day 24 - 03nd November 2020 - Sunrisers Hyderabad v/s Mumbai Indians](https://github.com/shashwatk1/IPL_Data_Analysis/tree/main/Day_24_03_November)
 
 ##### [Day 26 - 05th November 2020 - Mumbai Indians v/s Delhi Capitals](https://github.com/shashwatk1/IPL_Data_Analysis/tree/main/Day_26_05_November)
+
+##### [Day 27 - 06th November 2020 - Sunrisers Hyderabad v/s Royal Challengers Banglore](https://github.com/shashwatk1/IPL_Data_Analysis/tree/main/Day_27_06_November)
